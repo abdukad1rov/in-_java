@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author devonline
  * @link http://devonline.academy/java
  */
-public class primer1 {
+public class krestiki_noliki {
     public static void main(String[] args) {
         System.out.println("Use the following mapping table to specify a cell using numbers from 1 to 9:");
         printTableMapping();
